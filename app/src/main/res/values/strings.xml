@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenNoPlanetB</string>
+    <string name="tvTexto">La teoría más conocida sobre el origen del universo se centra en un cataclismo cósmico sin igual en la historia: el big bang. Esta teoría surgió de la observación del alejamiento a gran velocidad de otras galaxias respecto a la nuestra en todas direcciones, como si hubieran sido repelidas por una antigua fuerza explosiva.  Antes del big bang, según los científicos, la inmensidad del universo observable, incluida toda su materia y radiación, estaba comprimida en una masa densa y caliente a tan solo unos pocos milímetros de distancia. Este estado casi incomprensible se especula que existió tan sólo una fracción del primer segundo de tiempo.</string>
+    <string name="Titulo">El Universo es Enorme</string>
+    <string name="etname">Introduce tu nick</string>
+    <string name="etpassword">Introduce la contraseña</string>
+    <string name="tvInicioS">Inicio de Sesión</string>
+</resources>
